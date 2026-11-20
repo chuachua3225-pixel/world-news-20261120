@@ -10,9 +10,11 @@ summit in Shenzhen, the Russian barrage that damaged embassies in
 Kyiv, the World Court's Myanmar genocide verdict, the Houthi
 missile that hit Riyadh's tallest tower, COP31's draft deal with
 fossil fuels erased, Voyager 1 phoning home from one light-day
-away, and Anthropic's record $81bn IPO. The image is drawn by
-`build_entry.py` (see `SOURCES.md` for the reporting behind each
-story); `main.py` writes it to the output as `entry.png`.
+away, and Anthropic's record $81bn IPO. The page is composed by
+`build_entry2.py` from the painterly panel illustrations in the
+`art-*.webp` files (see `SOURCES.md` for the reporting behind each
+story); `main.py` writes the finished image to the output as
+`entry.png`.
 
 ## Run it
 
